@@ -9,4 +9,4 @@ const DemoOuput = (props) => {
 
 };
 
-export default DemoOuput;
+export default React.memo(DemoOuput);
